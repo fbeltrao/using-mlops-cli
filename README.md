@@ -1,6 +1,6 @@
 # Sample project using ML Ops cli
 
-This is a sample project that use the [ML Ops cli](./https://github.com/fbeltrao/mlops-cli). It can auto-update the tooling through the usage of `make init`.
+This is a sample project that use the [ML Ops cli](https://github.com/fbeltrao/mlops-cli). It can auto-update the tooling through the usage of `make init`.
 
 ## How it works
 
